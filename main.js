@@ -20,7 +20,6 @@ hamburgerMenuBtn.addEventListener("click", (e) => {
   }
   // this handle the opening and closing of the mobile menu
   navMenu.classList.toggle("active");
-  console.log(e.target);
 });
 
 // Add a click event listener to the parent element
